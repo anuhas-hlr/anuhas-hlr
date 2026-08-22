@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **raviruanuhasff@gmail.com**
 
-- ⚡ Fun fact **I’m an AI student who spends way too much time on football ⚽**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raviru anuhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raviru anuhas" height="30" width="40" /></a>
