@@ -25,8 +25,8 @@
 
   <!-- Live Dynamic Profile Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e7490&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
+    <img src="https://komarev.com/ghpvc/?username=Anuhas-hlr&label=Profile%20Views&color=0e7490&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Anuhas-hlr?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
   </p>
 
 </div>
