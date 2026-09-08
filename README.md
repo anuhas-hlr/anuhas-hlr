@@ -1,251 +1,38 @@
-<!-- =======================================================
-
-                         RAVIRU ANUHAS
-
-             AI DEVELOPER · DATA SCIENCE · FULL-STACK
-
-======================================================== -->
-
 <div align="center">
 
-<img src="assets/banner3.svg" width="100%" alt="Raviru Anuhas — AI Developer"/>
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Raviru%20Anuhas&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <br>
 
-<img src="https://img.shields.io/github/followers/Anuhas-hlr?label=Followers&style=for-the-badge&color=7C5CFF&logo=github&logoColor=white&labelColor=0D1020" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Undergraduate;Machine+Learning+%7C+Data+Science;Full-Stack+Developer;AI+%26+Software+Engineering;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%9A%80" />
 
-<img src="https://img.shields.io/github/stars/Anuhas-hlr?label=Stars&style=for-the-badge&color=22D3EE&logo=github&logoColor=white&labelColor=0D1020" />
+<br><br>
+<a href="https://github.com/Anuhas-hlr"> <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/raviru-anuhas-855b42366"> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/> </a> <a href="https://instagram.com/raviruanuhs"> <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E879F9"/> </a>
 
-<img src="https://komarev.com/ghpvc/?username=Anuhas-hlr&label=Profile+Views&color=FFB020&style=for-the-badge" />
+<br><br>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Anuhas-hlr&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
 
-<br>
 
-## `0x00`   About Me
+<br><br>Hi! I'm **Raviru Anuhas**, an **Artificial Intelligence undergraduate at SLIIT** and a developer passionate about building intelligent, practical, and user-focused applications.<br><br>🤖 I’m interested in **Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development**. I enjoy turning ideas into real-world projects — from ML models and recommendation systems to modern web applications.<br><br>* 🎓 **Studying:** BSc (Hons) in Information Technology — Artificial Intelligence<br>* 🔭 **Building:** AI-powered applications, recommendation systems & full-stack projects<br>* 🌱 **Learning:** Advanced Machine Learning, Deep Learning & modern web technologies<br>* 💻 **Tech:** Python, Java, JavaScript, React, Spring Boot, FastAPI, SQL & MongoDB<br>* 🧠 **ML:** Scikit-learn, Pandas, NumPy, LightGBM & model development<br>* 🚀 **Goal:** Build impactful software that combines AI with real-world solutions<br>* ⚡ **Fun fact:** I enjoy turning random ideas into projects just to see if I can build them 😄<br><br>> **"Learn. Build. Improve. Repeat."**<br>
 
-<table>
 
-<tr>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raviruanuhs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raviru-anuhas-855b42366) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raviruanuhasff@gmail.com) 
 
-<td width="55%" valign="top">
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anuhas-hlr&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Anuhas-hlr&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anuhas-hlr&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm **Raviru Anuhas** — an Artificial Intelligence student and developer interested in building intelligent applications that combine **AI, data, and modern web technologies**.
 
-Currently pursuing a **BSc (Hons) in Artificial Intelligence** at SLIIT, I enjoy turning ideas into practical software — from machine-learning models and recommendation systems to full-stack web applications.
+![](https://github-profile-trophy.vercel.app/?username=Anuhas-hlr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-* 🔭 **Building:** AI-powered applications, recommendation systems & full-stack projects
-
-* 🌱 **Learning:** Machine Learning, Data Science, Generative AI & Cloud Technologies
-
-* 💬 **Ask me about:** Python, Machine Learning, React, Java, Spring Boot or Data Science
-
-* ⚡ **Motto:** *"Learn. Build. Improve."*
-
-</td>
-
-<td width="45%" valign="top">
-
-<img src="assets/terminal1.svg" width="100%" alt="Terminal session introducing Raviru"/>
-
-</td>
-
-</tr>
-
-</table>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Anuhas-hlr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## `0x01`   Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,r,spring,react,vite,tailwind,fastapi,mysql,mongodb,git,github,vscode,postman,linux&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1020?logo=scikitlearn&logoColor=F7931E&style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Pandas-0D1020?logo=pandas&logoColor=150458&style=for-the-badge">
-
-<img src="https://img.shields.io/badge/NumPy-0D1020?logo=numpy&logoColor=013243&style=for-the-badge">
-
-<img src="https://img.shields.io/badge/TensorFlow-0D1020?logo=tensorflow&logoColor=FF6F00&style=for-the-badge">
-
-<img src="https://img.shields.io/badge/OpenAI-0D1020?logo=openai&logoColor=E9EAF5&style=for-the-badge">
-
-</div>
-
----
-
-## `0x02`   Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Travel Planner
-
-AI-powered Sri Lankan destination recommendation system using machine-learning techniques to recommend destinations based on user preferences.
-
-**Technologies**
-
-`Python` `Scikit-Learn` `Pandas` `NumPy` `React`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📦 StockPilot
-
-A smart inventory and stock management platform designed to help businesses manage products, monitor stock levels and make better inventory decisions.
-
-**Technologies**
-
-`React` `JavaScript` `Backend APIs` `Database`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚗 Vehicle Insurance Management
-
-A full-stack vehicle insurance management system designed to manage insurance-related operations, including payment management.
-
-**Technologies**
-
-`Java` `Spring Boot` `MySQL` `React`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Machine Learning Projects
-
-Working with real-world datasets to explore preprocessing, classification, recommendation systems, model comparison and performance evaluation.
-
-**Technologies**
-
-`Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib`
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-## `0x03`   Data-Driven Insight
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuhas-hlr&theme=nightowl" />
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anuhas-hlr&theme=nightowl" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Anuhas-hlr&theme=nightowl&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
----
-
-## `0x04`   Currently Learning
-
-<div align="center">
-
-### 🧠 AI & Machine Learning
-
-`Machine Learning` · `Data Science` · `Generative AI`
-
-### ☁️ Cloud & Development
-
-`AWS` · `FastAPI` · `React` · `Spring Boot`
-
-### 📈 Data
-
-`Pandas` · `NumPy` · `Scikit-Learn` · `Matplotlib`
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-AI / Machine Learning      ████████████████████░░
-Data Science               ██████████████████░░░░
-Full-Stack Development     █████████████████░░░░░
-Generative AI              ██████████████░░░░░░░░
-Cloud / AWS                ███████████░░░░░░░░░░░
-```
-
-</div>
-
----
-
-## `0x05`   Let's Build Something
-
-<div align="center">
-
-<a href="https://github.com/Anuhas-hlr">
-
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
- 
-
-<a href="https://www.linkedin.com/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<p>🎓 <b>BSc (Hons) in Artificial Intelligence</b></p>
-
-<p>Sri Lanka Institute of Information Technology (SLIIT)</p>
-
-<p>2024 – 2028</p>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C5CFF,100:22D3EE&text=Learn.%20Build.%20Improve.&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=65&animation=fadeIn"/>
-
-</div>
